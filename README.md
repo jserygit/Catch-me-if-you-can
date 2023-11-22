@@ -1,10 +1,10 @@
 # Catch-me-if-you-can
 2d game runner/bullet hell/rythmic qte
 
-# UPDATE:
+## UPDATE-LOG:
 
-# {Alpha V0.01} :
-Endless Runner {
+### {Alpha V0.01} :
+Endless Runner :
 
   -support mannette
   
@@ -19,4 +19,3 @@ Endless Runner {
   -more control option on keyboard :
     you can now play with arrow or zqsd
 
-  };
