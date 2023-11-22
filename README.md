@@ -3,7 +3,7 @@
 
 UPDATE:
 
-Aplha V0.01 :
+Alpha V0.01 :
 Endless Runner :
   -support mannette
   -precision mode
