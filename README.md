@@ -3,19 +3,28 @@
 
 ## UPDATE-LOG:
 
+### {Alpha V0.02} :
+Endless Runner :
+	
+	-Replace dash by a sprint
+	
+	-Little change in the generation of bullet
+	
+	-fix UI
+
 ### {Alpha V0.01} :
 Endless Runner :
 
-  -support mannette
+ 	-support mannette
   
-  -precision mode
+ 	-precision mode
   
-  -Health system
+  	-Health system
   
-  -Add Dash
+  	-Add Dash
   
-  -Restart button
+  	-Restart button
   
-  -more control option on keyboard :
-    you can now play with arrow or zqsd
+  	-more control option on keyboard :
+    		you can now play with arrow or zqsd
 
