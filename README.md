@@ -20,6 +20,11 @@ controls :
 ### {Alpha V0.03} :
 Endless Runner :
 	
+	-fix camera
+
+### {Alpha V0.03} :
+Endless Runner :
+	
 	-Add a main menu (Press start button)
 	
 	-Add a pause button (Press share button)
