@@ -17,7 +17,15 @@ controls :
 
 ## UPDATE-LOG:
 
-### {Alpha V0.03} :
+### {Alpha V0.05} :
+Endless Runner :
+	
+	-new character asset
+	-new background
+	-add of a button on main menu
+	-fix some lag
+
+### {Alpha V0.04} :
 Endless Runner :
 	
 	-fix camera
