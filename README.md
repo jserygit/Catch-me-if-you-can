@@ -17,6 +17,10 @@ controls :
 
 ## UPDATE-LOG:
 
+### {Pre-Release Alpha v0.1}
+	Add Qte
+	Add Windows version and Linux version (add mac version later)
+
 ### {Alpha V0.05} :
 Endless Runner :
 	
